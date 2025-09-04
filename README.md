@@ -6,7 +6,7 @@
 
 ###
 
-<p align="left">- 📚 Continuous Learner – I keep improving my skills and adapting to new technologies.  <br>- 🤝 Collaborative – I value teamwork, clear communication, and shared growth.  <br>- ⚡ Problem Solver – I enjoy turning challenges into clean and reliable solutions.</p>
+<p align="left">- 📚 <b>Continuous Learner</b> – I keep improving my skills and adapting to new technologies.  <br>- 🤝 <b>Collaborative</b> – I value teamwork, clear communication, and shared growth.  <br>- ⚡ <b>Problem Solver</b> – I enjoy turning challenges into clean and reliable solutions.</p>
 
 ###
 <br>
