@@ -1,7 +1,18 @@
 <h1 align="center">Hey 👋! I'm Andy Álvarez, a Frontend Developer from Spain.</h1>
+<br>
+<p align="center">
+  <a href="mailto:andykanka@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/andy-alvarez/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+  <a href="https://tuportafolio.com](https://portfolio-andy-alvarez.vercel.app/" target="_blank">
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio"/>
+  </a>
+</p>
 
 ###
-<br>
 <h2 align="left">About me</h2>
 
 ###
