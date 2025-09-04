@@ -1,7 +1,7 @@
 <h1 align="center">Hey 👋! I'm Andy Álvarez, a Frontend Developer from Spain.</h1>
 
 ###
-
+<br>
 <h2 align="left">About me</h2>
 
 ###
@@ -9,7 +9,7 @@
 <p align="left">- 📚 Continuous Learner – I keep improving my skills and adapting to new technologies.  <br>- 🤝 Collaborative – I value teamwork, clear communication, and shared growth.  <br>- ⚡ Problem Solver – I enjoy turning challenges into clean and reliable solutions.</p>
 
 ###
-
+<br>
 <h2 align="left">I code with</h2>
 
 ###
