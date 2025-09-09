@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋! I'm Andy Álvarez, a Frontend Developer from Spain.</h1>
+<h1 align="center">Hey 👋! I'm Andy Álvarez, a Frontend Developer from Spain</h1>
 <br>
 <p align="center">
   <a href="mailto:andykanka@gmail.com">
@@ -17,7 +17,7 @@
 
 ###
 
-<p align="left">- 📚 <b>Continuous Learner</b> – I keep improving my skills and adapting to new technologies.  <br>- 🤝 <b>Collaborative</b> – I value teamwork, clear communication, and shared growth.  <br>- ⚡ <b>Problem Solver</b> – I enjoy turning challenges into clean and reliable solutions.</p>
+<p align="left">- 📚 <b>Continuous Learner</b> – I keep improving my skills and adapting to new technologies  <br>- 🤝 <b>Collaborative</b> – I value teamwork, clear communication, and shared growth  <br>- ⚡ <b>Problem Solver</b> – I enjoy turning challenges into clean and reliable solutions</p>
 
 ###
 <br>
