@@ -1,4 +1,4 @@
-<h1 align="center">Hey 👋! I'm Andy Álvarez, a Frontend Developer specialized in Next.js</h1>
+<h1 align="center">Hey 👋! I'm Andy Álvarez, a Frontend Developer from Spain</h1>
 <br>
 <p align="center">
   <a href="mailto:andykanka@gmail.com">
